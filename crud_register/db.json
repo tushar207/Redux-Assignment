@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "1718178354310",
+      "name": " Tushar",
+      "email": "tushar@gmail.com",
+      "phone": "123456783"
+    },
+    {
+      "id": "1718178375532",
+      "name": " Makavana",
+      "email": "makavana@gmail.com",
+      "phone": "0147852369"
+    },
+    {
+      "id": "1718178393024",
+      "name": " Heer",
+      "email": "heer@gmail.com",
+      "phone": "0123654789"
+    },
+    {
+      "id": "1718178410841",
+      "name": " Rahul",
+      "email": "rahul@gmail.com",
+      "phone": "0159632478"
+    }
+  ]
+}

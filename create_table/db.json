@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "1718175132034",
+      "name": "Tushar",
+      "email": "tushar@gmail.com",
+      "phone": "0123456789",
+      "status": "Unblock"
+    },
+    {
+      "id": "1718175156496",
+      "name": "Makavana",
+      "email": "makavana@gmail.com",
+      "phone": "9876543210",
+      "status": "Unblock"
+    },
+    {
+      "id": "1718175175556",
+      "name": "Heer",
+      "email": "heer@gmail.com",
+      "phone": "0123459876",
+      "status": "Unblock"
+    },
+    {
+      "id": "1718175195163",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "phone": "9876012345",
+      "status": "Unblock"
+    },
+    {
+      "id": "1718175215310",
+      "name": "Jay",
+      "email": "jay@gmail.com",
+      "phone": "0147852369",
+      "status": "Unblock"
+    }
+  ]
+}
